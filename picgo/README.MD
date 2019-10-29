@@ -1,0 +1,1 @@
+这个文件夹用于picgo工具上传markdown的图片
